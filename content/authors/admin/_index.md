@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in the Ray Tracing Rendering and Scientific Visualization. 
+Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering and Scientific Visualization. 
 
 For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested. 
 
