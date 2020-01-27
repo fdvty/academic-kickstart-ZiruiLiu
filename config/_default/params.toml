@@ -86,7 +86,7 @@ phone = "(+86) 188-1070-3566"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Building 35, No.5 Yiheyuan Road", city = "Haidian District", region = "Beijing, China", postcode = "100871", country = "China", country_code = "CN"}
+address = {street = "Building 35, Peking University, No.5 Yiheyuan Road", city = "Haidian District", region = "Beijing, China", postcode = "100871", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
