@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior majoring in Computer Science
+role: Junior year undergraduate majoring in Computer Science
 
 # Organizations/Affiliations
 organizations:
