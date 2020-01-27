@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement and Data Stream Processing. I am now focusing on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in the Ray Tracing Rendering in Computer Graphics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
