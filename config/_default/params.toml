@@ -90,7 +90,7 @@ address = {street = "Building 35, No.5 Yiheyuan Road", city = "Haidian District"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.9874687600", longitude = "116.3090200500"}
+coordinates = {latitude = "39.9874687600", longitude = "116.3089"}
 
 # Directions for visitors to locate you.
 directions = ""
