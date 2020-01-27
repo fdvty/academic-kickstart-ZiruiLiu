@@ -67,4 +67,6 @@ user_groups:
 
 Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement and Data Stream Processing. I am now focusing on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in the Ray Tracing Rendering in Computer Graphics. 
 
+For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested. 
+
 
