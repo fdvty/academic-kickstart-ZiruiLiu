@@ -21,9 +21,8 @@ organizations:
 bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in the Ray Tracing Rendering in Computer Graphics. 
 
 interests:
-- Network Measurement
-- Data Stream Processing
-- Ray Tracing Rendering
+- Computer Network
+- Scientific Visualization
 
 education:
   courses:
