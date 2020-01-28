@@ -29,54 +29,6 @@ date_format = "Jan 2006"
    description = ""
   
 
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "The Third Prize of Peking University Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2019"
-  date_end = ""
-  description = ""
 
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Award for Academic Excellence"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2019"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Guanghua Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2017"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Award for Contribution in Student Organization"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2017"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "The Third Prize of Freshman Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2016"
-  date_end = ""
-  description = ""
 
 +++
