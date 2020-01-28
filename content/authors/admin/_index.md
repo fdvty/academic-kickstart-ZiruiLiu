@@ -18,11 +18,11 @@ organizations:
   url: "https://www.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in the Ray Tracing Rendering in Computer Graphics. 
+bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in Ray Tracing Rendering. 
 
 interests:
 - Computer Network
-- Scientific Visualization
+- Computer Graphics
 
 education:
   courses:
@@ -50,9 +50,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv_lzr.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv_lzr.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zirui.liu@pku.edu.cn"
@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering and Scientific Visualization. 
+Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering. 
 
 For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested. 
 
