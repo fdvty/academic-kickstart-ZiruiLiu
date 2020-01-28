@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -27,7 +27,56 @@ date_format = "Jan 2006"
    date_start = "2018-10-01"
    date_end = ""
    description = ""
+ 
+[[item]]
+  organization = "Peking University"
+  organization_url = ""
+  title = "The Third Prize of Peking University Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-1"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Peking University"
+  organization_url = ""
+  title = "Award for Academic Excellence"
+  url = ""
+  certificate_url = ""
+  date_start = "Dec. 2019"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Peking University"
+  organization_url = ""
+  title = "Guanghua Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "Dec. 2017"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Peking University"
+  organization_url = ""
+  title = "Award for Contribution in Student Organization"
+  url = ""
+  certificate_url = ""
+  date_start = "Dec. 2017"
+  date_end = ""
+  description = ""
   
+[[item]]
+  organization = "Peking University"
+  organization_url = ""
+  title = "The Third Prize of Freshman Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "Dec. 2016"
+  date_end = ""
+  description = ""
 
 
 
