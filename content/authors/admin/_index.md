@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior year undergraduate majoring in Computer Science
+role: Senior year undergraduate majoring in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,12 @@ organizations:
   url: "https://www.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in Ray Tracing Rendering. 
+# bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in Ray Tracing Rendering. 
 
 interests:
-- Computer Network
-- Computer Graphics
+- Data Structure
+- Network Measurement
+- Database and Data Management
 
 education:
   courses:
@@ -64,8 +65,10 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a junior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working at [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/)'s group as a research intern. My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering. 
+Hi! I am a senior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) on some projects related to Data Structure, Network Measurement, and Machine Learning. 
+My research interests lie in the general area of Networks and Database. I find it excited to design new data structures & algorithms and polish them. I'm also interested in other areas of computer science, for example, graphics and rendering. Please do not hesitate to contact me if you have new ideas and need helper :)
+<!-- My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering.  -->
 
-For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested. 
+<!-- For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested.  -->
 
 
