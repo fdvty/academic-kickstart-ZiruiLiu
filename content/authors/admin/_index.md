@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zirui Liu
+name: Zirui Liu (刘子瑞)
 
 # Username (this should match the folder name)
 authors:
@@ -67,7 +67,7 @@ user_groups:
 
 Hi! I am a senior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) on some projects related to Data Structure, Network Measurement, and Machine Learning. 
 
-My research interests lie in the general area of Networks and Database. I find it excited to design new data structures & algorithms and polish them. I'm also interested in other areas of computer science, for example, graphics and rendering. Please do not hesitate to contact me if you have new ideas and need helper :)
+My research interests lie in the general area of Networks and Database. I find it excited to design and polish new data structures & algorithms. I'm also interested in other areas of computer science, for example, graphics and rendering. Please do not hesitate to contact me if you have new ideas and need helper :)
 <!-- My research interests lie in the general area of Network Measurement, Data Stream Processing and P2P Network Broadcasting. I also have a keen interest in Ray Tracing Rendering.  -->
 
 <!-- For the time being, I am looking for a research opportunity in the next summer. Please contact me if you are interested.  -->
