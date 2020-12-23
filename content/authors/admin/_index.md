@@ -18,12 +18,12 @@ organizations:
   url: "https://www.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests lie in the general area of Network Measurement and Data Stream Processing. My current research focuses on using Coding Theory to improve Blockchain network broadcast. I also have a keen interest in Ray Tracing Rendering. 
+# bio:  
 
 interests:
-- Data Structure
 - Network Measurement
-- Database and Data Management
+- Machine Learning
+- Database
 
 education:
   courses:

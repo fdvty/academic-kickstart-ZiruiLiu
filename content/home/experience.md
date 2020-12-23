@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -12,33 +12,19 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 +++
+
+**Teaching Assistant** at Peking University:
+
+- Fall 2020, Introduction to Computer Systems (CMU 15213)
+- Fall 2018, Rapid Prototyping in Innovations
+
+
+**Linux Club of Peking University (<a href='http://lcpu.club'>LCPU</a>)**
+
+- Fall 2020 -- now, president
+- Fall 2019 -- Spring 2020, vice president
+
+**Activities:**
+
+- Summer 2018, <a href='http://www.cuhk.edu.hk/ccc/lssp/'>Lee Shiu Summer Programme</a>

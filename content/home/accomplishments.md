@@ -1,16 +1,17 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+# widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "custom"
+#headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 100  # Order that this section will appear.
 
-title = "Awards"
+title = "Awards & Honors"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -18,66 +19,23 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
- [[item]]
-   organization = "Coursera"
-   organization_url = "https://www.coursera.org"
-   title = "Neural Networks and Deep Learning"
-   url = ""
-   certificate_url = "https://www.coursera.org"
-   date_start = "2018-10-01"
-   date_end = ""
-   description = ""
- 
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "The Third Prize of Peking University Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-12-1"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Award for Academic Excellence"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2019"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Guanghua Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2017"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "Award for Contribution in Student Organization"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2017"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "Peking University"
-  organization_url = ""
-  title = "The Third Prize of Freshman Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "Dec. 2016"
-  date_end = ""
-  description = ""
-
-
-
 +++
+
+- National Scholarship, Ministry of Education (2020)
+
+- Merit Student, Peking University (2020)
+
+- The Third Prize of Peking University Scholarship, Peking University (2019)
+
+- Award for Academic Excellence, Peking University (2019)
+
+- Kwang-Hua Scholarship, Peking University (2017)
+
+- Award for Contribution in Student Organizations, Peking University (2017)
+
+- The Third Prize of PKU Freshman Scholarship, Peking University (2016)
+
+- ...
+
+
+
