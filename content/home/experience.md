@@ -16,14 +16,14 @@ date_format = "Jan 2006"
 
 **Teaching Assistant** at Peking University:
 
-- Fall 2020, Introduction to Computer Systems (CMU 15213)
+- Fall 2020, Introduction to Computer Systems (CMU 15-213)
 - Fall 2018, Rapid Prototyping in Innovations
 
 
 **Linux Club of Peking University (<a href='http://lcpu.club'>LCPU</a>)**
 
-- Fall 2020 -- now, president
-- Fall 2019 -- Spring 2020, vice president
+- Fall 2020 -- Spring 2021, President
+- Fall 2019 -- Spring 2020, Vice President
 
 **Activities:**
 

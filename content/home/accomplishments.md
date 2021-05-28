@@ -6,7 +6,7 @@ widget = "custom"
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Awards & Honors"
+title = "Honors"
 subtitle = ""
 
 # Date format
@@ -25,9 +25,9 @@ subtitle = ""
 
 - Merit Student, Peking University (2020)
 
-- The Third Prize of Peking University Scholarship, Peking University (2019)
-
 - Award for Academic Excellence, Peking University (2019)
+
+- The Third Prize of PKU Scholarship, Peking University (2019)
 
 - Kwang-Hua Scholarship, Peking University (2017)
 
@@ -36,6 +36,8 @@ subtitle = ""
 - The Third Prize of PKU Freshman Scholarship, Peking University (2016)
 
 - ...
+
+
 
 
 

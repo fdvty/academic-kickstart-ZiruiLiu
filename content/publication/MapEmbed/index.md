@@ -27,10 +27,9 @@
 #url_pdf: https://arxiv.org/pdf/2005.05751.pdf
 
 
-title: "LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using
-  Sketchlets"
-authors: [<p>Yikai Zhao<sup>*</sup></p>, <p>Kaicheng Yang<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Li Chen</p>, <p>Shiyi Liu</p>, <p>Naiqian Zheng</p>, <p>Ruixin Wang</p>, <p>Hanbo Wu</p>, <p>Yi Wang</p>, <p>Nicholas Zhang</p>,<p><i>(* equal contribution)</i></p>]
-date: "2021-04-01T20:00:00+08:00"
+title: "MapEmbed: Perfect Hashing with High Load Factor and Fast Update"
+authors: [<p>Yuhan Wu<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Xiang Yu<sup>*</sup></p>, <p>Jie Gui</p>, <p>Haochen Gan</p>, <p>Yuhao Han</p>, <p>Tao Li</p>, <p>Ori Rottenstreich</p>, <p>Tong Yang</p>,<p><i>(* equal contribution)</i></p>]
+date: "2021-07-01T20:00:00+08:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -43,9 +42,8 @@ publishDate: "2020-12-01T20:00:00+08:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*18th USENIX Symposium on Networked Systems Design and Implementation
-  (NSDI 21)*'
-publication_short: "**USENIX NSDI 2021**"
+publication: '*ACM SIGKDD Conference on Knowledge Discovery and Data Mining*'
+publication_short: "**ACM SIGKDD 2021**"
 
 
 # Summary. An optional shortened abstract.
@@ -63,7 +61,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.usenix.org/conference/nsdi21/presentation/zhao
+# url_pdf: https://www.usenix.org/conference/nsdi21/presentation/zhao
 
 
 

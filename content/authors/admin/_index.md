@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior year undergraduate majoring in Computer Science
+role: Undergraduate in Yuanpei College, Peking University
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio:  
 
-interests:
-- Network Measurement
-- Machine Learning
-- Database
+# interests:
+# - ML
+# - Networks
 
 education:
   courses:
@@ -65,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a senior year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) on some projects related to Data Structure, Network Measurement, and Machine Learning. 
+Hi! I am a final year undergraduate majoring in Computer Science in Peking University, China. Currently, I am working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) on some projects related to Machine Learning and Data Streams. 
 
 <!-- My research interests lie in the general area of Networks and Database. I find it excited to design and polish new data structures & algorithms. I'm also interested in other areas of computer science, for example, graphics and rendering. -->
 <!-- Please do not hesitate to contact me if you have new ideas and need helper :) -->
