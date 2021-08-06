@@ -27,9 +27,9 @@
 #url_pdf: https://arxiv.org/pdf/2005.05751.pdf
 
 
-title: "MapEmbed: Perfect Hashing with High Load Factor and Fast Update"
-authors: [<p>Yuhan Wu<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Xiang Yu<sup>*</sup></p>, <p>Jie Gui</p>, <p>Haochen Gan</p>, <p>Yuhao Han</p>, <p>Tao Li</p>, <p>Ori Rottenstreich</p>, <p>Tong Yang</p>,<p><i>(* equal contribution)</i></p>]
-date: "2021-07-01T20:00:00+08:00"
+title: "SketchINT: Empowering INT with TowerSketch for Per-flow Per-switch Measurement"
+authors: [<p>Kaicheng Yang<sup>*</sup></p>, <p>Yuanpeng Li<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Yu Zhou</p>, <p>Jintao He</p>, <p>JingAn Xue</p>, <p>Tong Zhao</p>, <p>Zhengyi Jia</p>, <p>Yongqiang Yang</p>, <p><i>(* equal contribution)</i></p>]
+date: "2021-11-01T20:00:00+08:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -42,8 +42,9 @@ publishDate: "2020-12-01T20:00:00+08:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*ACM SIGKDD Conference on Knowledge Discovery and Data Mining*'
-publication_short: "**ACM SIGKDD 2021**"
+publication: '*The 29th IEEE International Conference on Network Protocols
+  (ICNP 21)*'
+publication_short: "**IEEE ICNP 2021**"
 
 
 # Summary. An optional shortened abstract.
@@ -61,7 +62,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://yangtonghome.github.io/uploads/Wu_Final_MapEmbed_Hashing_SIGKDD_2021.pdf
+# url_pdf: https://www.usenix.org/conference/nsdi21/presentation/zhao
 
 
 

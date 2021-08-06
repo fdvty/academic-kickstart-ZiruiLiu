@@ -16,8 +16,8 @@ date_format = "Jan 2006"
 
 **Teaching Assistant** at Peking University:
 
-- Fall 2020, Introduction to Computer Systems (CMU 15-213)
-- Fall 2018, Rapid Prototyping in Innovations
+- Fall 2020, Introduction to Computer Systems (CMU 15-213), Prof. Xiangqun Chen
+- Fall 2018, Rapid Prototyping in Innovations, Prof. Jiang Chen
 
 
 **Linux Club of Peking University (<a href='http://lcpu.club'>LCPU</a>)**
