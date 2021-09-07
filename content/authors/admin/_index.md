@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming PhD student in [EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn/)
+role: PhD student in [EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn/)
 
 # Organizations/Affiliations
 # organizations:
@@ -26,6 +26,9 @@ role: Incoming PhD student in [EECS](https://eecs.pku.edu.cn), [Peking Universit
 
 education:
   courses:
+  - course: PhD in Computer Science 
+    institution: EECS, Peking University
+    year: 2026 (Expected)
   - course: BSc in Computer Science 
     institution: Yuanpei College, Peking University
     year: 2021
@@ -64,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am an incoming PhD student majoring in Computer Science in Peking University, China. Currently, I am working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) on some projects related to Machine Learning and Data Streams. 
+Hi! I am a first-year PhD student in [EECS](https://eecs.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/), advised by [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/) and [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/). My research interests lie in Computer Networks and Data Streams.
 I received my bachelor degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn), Peking University in 2021.
 
 <!-- My research interests lie in the general area of Networks and Database. I find it excited to design and polish new data structures & algorithms. I'm also interested in other areas of computer science, for example, graphics and rendering. -->
