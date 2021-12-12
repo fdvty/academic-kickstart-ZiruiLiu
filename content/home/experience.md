@@ -14,8 +14,14 @@ date_format = "Jan 2006"
 
 +++
 
+**Internship:**
+
+- October 2021 -- Now, <a href='https://www.huawei.com/'>Huawei Technologies Co., Ltd.</a>
+
+
 **Teaching Assistant** at Peking University:
 
+- Fall 2021, Introduction to Computation (A), <a href='http://net.pku.edu.cn/~cuibin/'>Prof. Bin Cui</a>
 - Fall 2020, Introduction to Computer Systems (CMU 15-213), Prof. Xiangqun Chen
 - Fall 2018, Rapid Prototyping in Innovations, Prof. Jiang Chen
 
