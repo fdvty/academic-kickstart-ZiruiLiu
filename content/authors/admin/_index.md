@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a first-year PhD student in [EECS](https://eecs.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/), advised by [Prof. Bin Cui](https://cuibinpku.github.io/) and [Prof. Tong Yang](https://yangtonghome.github.io/). My research interests lie in Computer Networks and Data Streams.
+Hi! I am a second-year PhD student in [EECS](https://eecs.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/), advised by [Prof. Bin Cui](https://cuibinpku.github.io/) and [Prof. Tong Yang](https://yangtonghome.github.io/). My research interests lie in Computer Networks and Data Streams.
 I received my bachelor degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn), Peking University in 2021.
 
 <!-- My research interests lie in the general area of Networks and Database. I find it excited to design and polish new data structures & algorithms. I'm also interested in other areas of computer science, for example, graphics and rendering. -->
