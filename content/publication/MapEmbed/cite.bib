@@ -1,0 +1,17 @@
+@inproceedings{wu2021mapembed,
+  author = {Wu, Yuhan and Liu, Zirui and Yu, Xiang and Gui, Jie and Gan, Haochen and Han, Yuhao and Li, Tao and Rottenstreich, Ori and Yang, Tong},
+  title = {MapEmbed: Perfect Hashing with High Load Factor and Fast Update},
+  year = {2021},
+  isbn = {9781450383325},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3447548.3467240},
+  doi = {10.1145/3447548.3467240},
+  abstract = {Perfect hashing is a hash function that maps a set of distinct keys to a set of continuous integers without collision. However,most existing perfect hash schemes are static, which means that they cannot support incremental updates, while most datasets in practice are dynamic. To address this issue, we propose a novel hashing scheme, namely MapEmbed Hashing. Inspired by divide-and-conquer and map-and-reduce, our key idea is named map-and-embed and includes two phases: 1) Map all keys into many small virtual tables; 2) Embed all small tables into a large table by circular move. Our experimental results show that under the same experimental setting, the state-of-the-art perfect hashing (dynamic perfect hashing) can achieve around 15% load factor, around 0.3 Mops update speed, while our MapEmbed achieves around 90% ~ 95% load factor, and around 8.0 Mops update speed per thread. All codes of ours and other algorithms are open-sourced at GitHub.},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
+  pages = {1863–1872},
+  numpages = {10},
+  keywords = {hash tables, perfect hashing, kv stores},
+  location = {Virtual Event, Singapore},
+  series = {KDD '21}
+}

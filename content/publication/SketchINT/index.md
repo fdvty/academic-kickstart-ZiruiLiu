@@ -27,10 +27,9 @@
 #url_pdf: https://arxiv.org/pdf/2005.05751.pdf
 
 
-title: "LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using
-  Sketchlets"
-authors: [<p>Yikai Zhao<sup>*</sup></p>, <p>Kaicheng Yang<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Li Chen</p>, <p>Shiyi Liu</p>, <p>Naiqian Zheng</p>, <p>Ruixin Wang</p>, <p>Hanbo Wu</p>, <p>Yi Wang</p>, <p>Nicholas Zhang</p>,<p><i>(* equal contribution)</i></p>]
-date: "2021-04-01T20:00:00+08:00"
+title: "SketchINT: Empowering INT with TowerSketch for Per-flow Per-switch Measurement"
+authors: [<p>Kaicheng Yang<sup>*</sup></p>, <p>Yuanpeng Li<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Yu Zhou</p>, <p>Jintao He</p>, <p>JingAn Xue</p>, <p>Tong Zhao</p>, <p>Zhengyi Jia</p>, <p>Yongqiang Yang</p>, <p><i>(* equal contribution)</i></p>]
+date: "2021-11-01T20:00:00+08:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -43,9 +42,9 @@ publishDate: "2020-12-01T20:00:00+08:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*18th USENIX Symposium on Networked Systems Design and Implementation
-  (NSDI 21)*'
-publication_short: "**USENIX NSDI 2021**"
+publication: '*The 29th IEEE International Conference on Network Protocols
+  (ICNP 21)*'
+publication_short: "**IEEE ICNP 2021**"
 
 
 # Summary. An optional shortened abstract.
@@ -63,11 +62,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: https://github.com/Light-Guardian/LightGuardian
+url_code: https://github.com/SketchINT-code/SketchINT
 
 links:
 - name: Web
-  url: https://www.usenix.org/conference/nsdi21/presentation/zhao
+  url: https://ieeexplore.ieee.org/document/9651940
   # icon_pack: fab
   # icon: pdf
 

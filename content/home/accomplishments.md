@@ -21,13 +21,15 @@ subtitle = ""
 
 +++
 
+- Lingjun Pilot Scholarship (灵均领航奖学金), Peking University (2022)
+
+- Merit Student (三好学生), Peking University (2022, 2020)
+
 - Chancellor's Scholarship (校长奖学金), Peking University (2021)
 
 - Academic Star Scholarship (学术希望之星), Yuanpei College of Peking University (2021)
 
 - National Scholarship (国家奖学金), Ministry of Education (2020)
-
-- Merit Student (三好学生), Peking University (2020)
 
 - Award for Academic Excellence (学习优秀奖), Peking University (2019)
 

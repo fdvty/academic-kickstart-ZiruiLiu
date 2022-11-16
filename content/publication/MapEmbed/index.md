@@ -42,7 +42,7 @@ publishDate: "2020-12-01T20:00:00+08:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*ACM SIGKDD Conference on Knowledge Discovery and Data Mining*'
+publication: '*Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (SIGKDD 2021)*'
 publication_short: "**ACM SIGKDD 2021**"
 
 
@@ -61,9 +61,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://yangtonghome.github.io/uploads/Wu_Final_MapEmbed_Hashing_SIGKDD_2021.pdf
+url_code: https://github.com/MapEmbed/MapEmbed
 
 
+links:
+- name: Web
+  url: https://dl.acm.org/doi/10.1145/3447548.3467240
+  # icon_pack: fab
+  # icon: pdf
 
 
 ---

@@ -27,13 +27,16 @@
 #url_pdf: https://arxiv.org/pdf/2005.05751.pdf
 
 
-title: "SketchINT: Empowering INT with TowerSketch for Per-flow Per-switch Measurement"
-authors: [<p>Kaicheng Yang<sup>*</sup></p>, <p>Yuanpeng Li<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Yu Zhou</p>, <p>Jintao He</p>, <p>JingAn Xue</p>, <p>Tong Zhao</p>, <p>Zhengyi Jia</p>, <p>Yongqiang Yang</p>, <p><i>(* equal contribution)</i></p>]
-date: "2021-11-01T20:00:00+08:00"
+title: "TreeSensing: Linearly Compressing Sketches with Flexibility"
+authors: [<b>Zirui Liu</b>, <p>Yixin Zhang</p>, <p>Yifan Zhu</p>, <p>Ruwen Zhang</p>, <p>Tong Yang</p>, <p>Kun Xie</p>, <p>Sha Wang</p>, <p>Tao Li</p>, <p>Bin Cui</p>]
+
+
+date: "2023-06-18T00:00:00Z"
+
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-01T20:00:00+08:00"
+publishDate: "2022-11-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,9 +45,8 @@ publishDate: "2020-12-01T20:00:00+08:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*The 29th IEEE International Conference on Network Protocols
-  (ICNP 21)*'
-publication_short: "**IEEE ICNP 2021**"
+publication: '*Proceedings of the 2023 International Conference on Management of Data (SIGMOD 2023)*'
+publication_short: "**ACM SIGMOD 2023**"
 
 
 # Summary. An optional shortened abstract.
@@ -62,8 +64,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-# url_pdf: https://www.usenix.org/conference/nsdi21/presentation/zhao
+url_code: https://github.com/TowerSensing/TowerSensing
 
+# links:
+# - name: Web
+#   url: https://www.usenix.org/conference/nsdi21/presentation/zhao
+  # icon_pack: fab
+  # icon: pdf
 
 
 

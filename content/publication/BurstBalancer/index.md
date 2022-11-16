@@ -26,7 +26,11 @@ tags: []
 categories: []
 featured: false
 
+url_code: https://github.com/BurstBalancer/Burst-Balancer
 
+links:
+- name: Web
+  url: https://ieeexplore.ieee.org/document/9940372
 
 ---
 
