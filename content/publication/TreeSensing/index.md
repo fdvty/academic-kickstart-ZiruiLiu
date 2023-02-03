@@ -64,6 +64,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+url_pdf: https://yangtonghome.github.io/uploads/TreeSensing_0201.pdf
+
 url_code: https://github.com/TowerSensing/TowerSensing
 
 # links:

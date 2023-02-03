@@ -14,9 +14,9 @@ date_format = "Jan 2006"
 
 +++
 
-**Internship:**
+<!-- **Internship:**
 
-- Oct. 2021 -- Now, Research Intern at Datacom Forwarding Algorithm Lab, <a href='https://www.huawei.com/'>Huawei Technologies Co., Ltd.</a>
+- Oct. 2021 -- Now, Research Intern at Datacom Forwarding Algorithm Lab, <a href='https://www.huawei.com/'>Huawei Technologies Co., Ltd.</a> -->
 
 
 **Teaching Assistant** at Peking University:
