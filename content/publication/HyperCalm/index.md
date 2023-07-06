@@ -1,6 +1,6 @@
 ---
 title: "HyperCalm Sketch: One-Pass Mining Periodic Batches in Data Streams"
-authors: [<b>Zirui Liu<sup>*</sup></b>, <p>Chaozhe Kong<sup>*</sup></p>, <p>Kaicheng Yang<sup>*</sup></p>, <p>Tong Yang</p>, <p>Ruijie Miao</p>, <p>Qizhi Chen</p>, <p>Yikai Zhao</p>, <p>Yaofeng Tu</p>, <p>Bin Cui</p>, <p><i>(* equal contribution)</i></p>]
+authors: [<b>Zirui Liu#</b>, <p>Chaozhe Kong#</p>, <p>Kaicheng Yang#</p>, <p>Tong Yang</p>, <p>Ruijie Miao</p>, <p>Qizhi Chen</p>, <p>Yikai Zhao</p>, <p>Yaofeng Tu</p>, <p>Bin Cui</p>]
 
 doi: ""
 

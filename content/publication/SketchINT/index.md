@@ -28,7 +28,7 @@
 
 
 title: "SketchINT: Empowering INT with TowerSketch for Per-flow Per-switch Measurement"
-authors: [<p>Kaicheng Yang<sup>*</sup></p>, <p>Yuanpeng Li<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Yu Zhou</p>, <p>Jintao He</p>, <p>JingAn Xue</p>, <p>Tong Zhao</p>, <p>Zhengyi Jia</p>, <p>Yongqiang Yang</p>, <p><i>(* equal contribution)</i></p>]
+authors: [<p>Kaicheng Yang#</p>, <p>Yuanpeng Li#</p>, <b>Zirui Liu#</b>, <p>Tong Yang</p>, <p>Yu Zhou</p>, <p>Jintao He</p>, <p>JingAn Xue</p>, <p>Tong Zhao</p>, <p>Zhengyi Jia</p>, <p>Yongqiang Yang</p>]
 date: "2021-11-01T20:00:00+08:00"
 doi: ""
 

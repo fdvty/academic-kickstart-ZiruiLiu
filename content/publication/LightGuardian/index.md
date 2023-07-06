@@ -29,7 +29,7 @@
 
 title: "LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using
   Sketchlets"
-authors: [<p>Yikai Zhao<sup>*</sup></p>, <p>Kaicheng Yang<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Tong Yang</p>, <p>Li Chen</p>, <p>Shiyi Liu</p>, <p>Naiqian Zheng</p>, <p>Ruixin Wang</p>, <p>Hanbo Wu</p>, <p>Yi Wang</p>, <p>Nicholas Zhang</p>,<p><i>(* equal contribution)</i></p>]
+authors: [<p>Yikai Zhao#</p>, <p>Kaicheng Yang#</p>, <b>Zirui Liu#</b>, <p>Tong Yang</p>, <p>Li Chen</p>, <p>Shiyi Liu</p>, <p>Naiqian Zheng</p>, <p>Ruixin Wang</p>, <p>Hanbo Wu</p>, <p>Yi Wang</p>, <p>Nicholas Zhang</p>]
 date: "2021-04-01T20:00:00+08:00"
 doi: ""
 

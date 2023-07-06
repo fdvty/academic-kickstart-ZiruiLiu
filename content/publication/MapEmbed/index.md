@@ -28,7 +28,7 @@
 
 
 title: "MapEmbed: Perfect Hashing with High Load Factor and Fast Update"
-authors: [<p>Yuhan Wu<sup>*</sup></p>, <b>Zirui Liu<sup>*</sup></b>, <p>Xiang Yu<sup>*</sup></p>, <p>Jie Gui</p>, <p>Haochen Gan</p>, <p>Yuhao Han</p>, <p>Tao Li</p>, <p>Ori Rottenstreich</p>, <p>Tong Yang</p>,<p><i>(* equal contribution)</i></p>]
+authors: [<p>Yuhan Wu#</p>, <b>Zirui Liu#</b>, <p>Xiang Yu#</p>, <p>Jie Gui</p>, <p>Haochen Gan</p>, <p>Yuhao Han</p>, <p>Tao Li</p>, <p>Ori Rottenstreich</p>, <p>Tong Yang</p>]
 date: "2021-07-01T20:00:00+08:00"
 doi: ""
 

@@ -1,6 +1,6 @@
 ---
 title: "BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic"
-authors: [<b>Zirui Liu<sup>*</sup></b>, <p>Yikai Zhao<sup>*</sup></p>, <p>Zhuochen Fan<sup>*</sup></p>, <p>Tong Yang</p>, <p>Xiaodong Li</p>, <p>Ruwen Zhang</p>, <p>Kaicheng Yang</p>, <p>Zheng Zhong</p>, <p>Yi Huang</p>, <p>Cong Liu</p>, <p>Jing Hu</p>, <p>Gaogang Xie</p>, <p>Bin Cui</p>, <p><i>(* equal contribution)</i></p>]
+authors: [<b>Zirui Liu#</b>, <p>Yikai Zhao#</p>, <p>Zhuochen Fan#</p>, <p>Tong Yang</p>, <p>Xiaodong Li</p>, <p>Ruwen Zhang</p>, <p>Kaicheng Yang</p>, <p>Zheng Zhong</p>, <p>Yi Huang</p>, <p>Cong Liu</p>, <p>Jing Hu</p>, <p>Gaogang Xie</p>, <p>Bin Cui</p>]
 date: "2022-10-30T20:00:00+08:00"
 doi: ""
 
